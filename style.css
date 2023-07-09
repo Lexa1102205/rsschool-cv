@@ -1,1 +1,54 @@
+a{
+    text-decoration: none;
+    color: black;
+}
 
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: bisque;
+}
+
+.ImgHead{
+    height: 50px;
+    margin: 1%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+}
+.navigation{    
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation li{
+    margin-right: 30px;
+}
+
+main{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content{
+    width: 60%;
+}
+
+.DivContent{
+    width: 100%;
+}
+
+
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: bisque;
+    padding-right: 15%;
+}
