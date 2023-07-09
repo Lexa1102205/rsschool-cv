@@ -1,2 +1,2 @@
-- Markdown: [https://Lexa1102205.github.io/rsschool-cv/cv](https://xaurox.github.io/rsschool-cv/cv)
-- HTML & CSS: [https://Lexa1102205.github.io/rsschool-cv/](https://xaurox.github.io/rsschool-cv/)
+- Markdown: [https://Lexa1102205.github.io/rsschool-cv/cv](https://Lexa1102205.github.io/rsschool-cv/cv)
+- HTML & CSS: [https://Lexa1102205.github.io/rsschool-cv/](https://Lexa1102205.github.io/rsschool-cv/)
